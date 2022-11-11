@@ -5,7 +5,7 @@ It is a great way to practice your cybersecurity skills and get some hands-on ex
 
 
 ### Materials you will need to do the project.
-* ##### ESP32 CAM: (https://a.co/d/euru0Em)
+* ##### ESP32 CAM: (https://a.co/d/euru0Em)         * ###### Software tools : 
 * ##### USB Cable
 * ##### MicroSD Card
 

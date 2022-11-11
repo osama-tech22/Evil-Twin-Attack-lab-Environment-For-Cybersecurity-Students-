@@ -9,9 +9,12 @@ It is a great way to practice your cybersecurity skills and get some hands-on ex
 * ##### USB Cable
 * ##### MicroSD Card
 
-### Installing the Enviroment for the ESP32 in the Arduino IDE.
-* ##### First you need to Install the Arduino IDE.
-* ##### Open it, then click on Archive>Preferences
+### Flashing the ESP32 cam and configure it to be Access point : 
+* ##### I attached two files you will need for this step
+
+
+* ##### https://youtu.be/BP1Dz66faf4
+* ##### [for more detils steps and pictures] (https://theiotprojects.com/portable-esp32-wifi-repeater/)
 * ##### On Aditionals URL's paste this link:
 
 (https://dl.espressif.com/dl/package_esp32_index.js...)

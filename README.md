@@ -14,11 +14,8 @@ It is a great way to practice your cybersecurity skills and get some hands-on ex
 * ##### Espressif Flash Tool: https://www.espressif.com/en/support/download/other-tools
 * ##### Github Firmware: https://github.com/martin-ger/esp32_nat_router
 
-* ##### [this video for the steps after you downlaod the files](https://youtu.be/BP1Dz66faf4)
-* ##### [for more detils steps and pictures](https://theiotprojects.com/portable-esp32-wifi-repeater/))
-* ##### On Aditionals URL's paste this link:
-
-(https://dl.espressif.com/dl/package_esp32_index.js...)
+* ##### [This video for the steps after you downlaod the files"How to Make a WiFi Repeater using ESP32 "](https://youtu.be/BP1Dz66faf4)
+* ##### [for more detils steps and pictures](https://theiotprojects.com/portable-esp32-wifi-repeater/)
 
 * ##### Select the Board "Ai thinker ESP32-CAM"
 * ##### Go to Archive> Examples> ESP32> Camera> CameraWebServer.

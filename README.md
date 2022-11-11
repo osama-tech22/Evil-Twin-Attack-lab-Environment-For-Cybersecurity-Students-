@@ -14,7 +14,7 @@ It is a great way to practice your cybersecurity skills and get some hands-on ex
 
 
 * ##### https://youtu.be/BP1Dz66faf4
-* ##### [for more detils steps and pictures] ((https://theiotprojects.com/portable-esp32-wifi-repeater/))
+* ##### [for more detils steps and pictures](https://theiotprojects.com/portable-esp32-wifi-repeater/))
 * ##### On Aditionals URL's paste this link:
 
 (https://dl.espressif.com/dl/package_esp32_index.js...)

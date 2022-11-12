@@ -16,9 +16,9 @@ It is a great way to practice your cybersecurity skills and get some hands-on ex
 * ##### [This video for the steps after you downlaod the files"How to Make a WiFi Repeater using ESP32 "](https://youtu.be/BP1Dz66faf4)
 * ##### [For step by step written instructions](https://theiotprojects.com/portable-esp32-wifi-repeater/)
 
-#### Requirements for Evil Twin Attack: 
+### Requirements for Evil Twin Attack: 
 * ##### kali lunix 
-* ##### wireless adapter : 
+* ##### wireless adapter : https://a.co/d/6eh2gOa
 * ##### fluxion tool 
 * ##### airgeddon tool 
 * ##### 

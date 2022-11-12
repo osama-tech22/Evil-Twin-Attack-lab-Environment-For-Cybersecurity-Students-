@@ -31,41 +31,38 @@ It is a great way to practice your cybersecurity skills and get some hands-on ex
 * ##### Then give executable permission to the fluxion.sh file
         chmod +x fluxion.sh
 * ##### Run the tool
-./fluxion.sh
+        ./fluxion.sh
 * ##### install all the missing packages type 
-./fluxion.sh -i
+        ./fluxion.sh -i
 * ##### Select your language 
 * ##### Scan wifi hotspots "select the wireless attack for access point "
-* [1] Captive Portal Create an "evil twin" access point.
+       [1] Captive Portal Create an "evil twin" access point.
 * ##### select channel to monitor 
-* all channels 2.4GHZ 
+        all channels 2.4GHZ 
 * ##### choose your target AP 
-use ctrl+c to stop the scaning and chose your AP
+        use ctrl+c to stop the scaning and chose your AP
 * ##### select a wireless interface 1
-choose your adpater
+        choose your adpater
 * ##### select an interface for the access point
 * ##### select a method of deauthentication 
- [1]mdk4 deauthentication (aggressive)
+       [1]mdk4 deauthentication (aggressive)
 * #####  Select an access point service
-* Rogue AP - hostapd (recommended)
+        Rogue AP - hostapd (recommended)
 * ##### select a method of verification for the hash
-* Use cowpatty verification which is recommended. 
+        Use cowpatty verification which is recommended. 
 * ##### Do you want to use this file?  
-[1] use hash found
-* #####Select a password verification method
-* [1] hash - cowpatty
+       [1] use hash found
+* #####Select a password verification method 
+       [1] hash - cowpatty
 * ##### Select SSL certificate source for captive portal
-*  [1] Create a SSL certificate
+       [1] Create a SSL certificate
 * ##### Select an internet connectivity type for rogue network.
-* Mostly disconnected is recommended.
+        Mostly disconnected is recommended.
 * ##### Select the captive portal interface for the rough network.
-* You just need to select the right language according to you or the router brand of the target Wi-Fi
+        You just need to select the right language according to you or the router brand of the target Wi-Fi
 * ##### Start the attack
-* your attack will start automatically and six windows will pop up in front of you. 
+        your attack will start automatically and six windows will pop up in front of you. 
 * ##### As soon as the user connects with your fake one you will be able to see some information in those terminal windows which popped up in front of you. And in the users phone the browser will open which will say “Wi-Fi framework update” and asks the user to provide the password for the update. If the user enters the password this tool will verify the password with the hash you captured, if the password is wrong then it will say wrong password to the user and the attack will continue. When the user enters the correct password the user will see some framework updating and in your terminal you will see five of the pop up windows will close automatically and in one window you will see a message “The password was saved in/(path of the file)”.
-* ##### 
-
-
 
 
 ### links to Documention and Videos

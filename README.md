@@ -21,7 +21,7 @@ It is a great way to practice your cybersecurity skills and get some hands-on ex
 * ##### 
 * ##### 
 * ##### 
-* ##### 
+* ##### 1,000 × 1,500
 * ##### 
 * ##### 
 

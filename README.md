@@ -37,26 +37,23 @@ chmod +x fluxion.sh
 * ##### Select your language 
 * ##### Scan wifi hotspots "select the wireless attack for access point "
 * [1] Captive Portal Create an "evil twin" access point.
-* ##### select a wireless interface for target searching
-choose your adpater
 * ##### select channel to monitor 
 * all channels 2.4GHZ 
 * ##### choose your target AP 
-* ##### get the handshake 
-*  mdk4 deauthentication (aggressive)
-* ##### Select a wireless interface for target searching
-* (recommended the same interface you selected before)
-* ##### select a method of verification for the hash
-* Use cowpatty verification which is recommended. 
-* ##### How often should the verifier check the handshake?
+use ctrl+c to stop the scaning and chose your AP
+* ##### select a wireless interface 1
+choose your adpater
+* ##### select an interface for the access point
+* ##### select a method of deauthentication 
+ [1]mdk4 deauthentication (aggressive)
 * #####  Select an access point service
 * Rogue AP - hostapd (recommended)
+* ##### select a method of verification for the hash
+* Use cowpatty verification which is recommended. 
+* ##### Do you want to use this file?  
+[1] use hash found
 * #####Select a password verification method
 * [1] hash - cowpatty
-* ##### Do you want to use this file?  
-* Specific path for hash
-* ##### Select a method of verification for the hash
-* ##### cowpatty verification
 * ##### Select SSL certificate source for captive portal
 *  [1] Create a SSL certificate
 * ##### Select an internet connectivity type for rogue network.

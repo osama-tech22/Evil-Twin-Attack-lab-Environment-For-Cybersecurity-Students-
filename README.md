@@ -24,12 +24,12 @@ It is a great way to practice your cybersecurity skills and get some hands-on ex
 
 ### Will chose fluxion 
 * #####  Install Fluxion
-git clone https://github.com/FluxionNetwork/fluxion
+         git clone https://github.com/FluxionNetwork/fluxion
 * ##### Go to the folder, then list the contents to see the files in it.
-cd fluxion
-fluxion# ls
+        cd fluxion
+        fluxion# ls
 * ##### Then give executable permission to the fluxion.sh file
-chmod +x fluxion.sh
+        chmod +x fluxion.sh
 * ##### Run the tool
 ./fluxion.sh
 * ##### install all the missing packages type 

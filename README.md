@@ -71,5 +71,4 @@ It is a great way to practice your cybersecurity skills and get some hands-on ex
 
 * ##### [The Evil Twin Attack Using Airgeddon ](https://youtu.be/t4ZfZTNwOZE)
 
-* ##### [ Evil Twin Attack Using fluxion ](https://youtu.be/BAPcSzr3W9I)
 

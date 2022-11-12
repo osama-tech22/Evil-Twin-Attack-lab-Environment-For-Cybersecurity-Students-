@@ -63,14 +63,13 @@ It is a great way to practice your cybersecurity skills and get some hands-on ex
 * ##### Start the attack
         your attack will start automatically and six windows will pop up in front of you. 
 * #####  As soon as the user connects with your fake one you will be able to see some information in those terminal windows which popped up in front of            you. And in the users phone the browser will open which will say “Wi-Fi framework update” and asks the user to provide the password for the              update. If the user enters the password this tool will verify the password with the hash you captured, if the password is wrong then it will say          wrong password to the user and the attack will continue. When the user enters the correct password the user will see some framework updating and          in your terminal you will see five of the pop up windows will close automatically and in one window you will see a message “The password was              saved in/(path of the file)”.
-<font color="red">This is some text!</font>
 * ##### Note: be patient with the new AP. It might take a little bit of time to be fully running.
 
 ### links to Documention and Videos
 
 * ##### [Hack wifi password by Evil-Twin attack with Fluxion ](https://anirbanroy.co.in/hack-wifi-password-by-evil-twin-attack-with-fluxion/)
 
-* ##### []())
+* ##### [The Evil Twin Attack Using Airgeddon ](https://youtu.be/t4ZfZTNwOZE)
 
-* ##### [ ]())
+* ##### [ Evil Twin Attack Using fluxion ](https://youtu.be/BAPcSzr3W9I)
 
